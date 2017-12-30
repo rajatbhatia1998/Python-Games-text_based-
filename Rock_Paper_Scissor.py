@@ -1,8 +1,9 @@
-
+#Created by github.com/rajatbhatia1998
 #Rock Paper Scissor Game
 '''How to Play:- 1:Enter your Name 
 2:enter your selection as:-[rock or paper or sic]
 3:Score will be counted untill u lose the game '''
+
 
 import random
 
